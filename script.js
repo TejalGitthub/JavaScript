@@ -21,7 +21,6 @@ boxes.forEach((box)=>{
             }
         box.disabled=true;
        checkWinner();
-
         }
     )})
     const resetGame=()=>
