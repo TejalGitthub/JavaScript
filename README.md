@@ -15,4 +15,4 @@ two players can compete against each other. The game dynamically updates the boa
 - JavaScript: Game logic and interactivity.
 
 ### How to Run the Project
- Play the game directly here: https://tejalgitthub.github.io/JavaScript/
+ Play the game directly here:  https://tejalgitthub.github.io/Tic-Tac-Toe/
