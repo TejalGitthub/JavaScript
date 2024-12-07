@@ -6,7 +6,6 @@ two players can compete against each other. The game dynamically updates the boa
 - Interactive Gameplay: Two-player mode with alternating turns.
 - Dynamic Updates: Real-time updates to the game board and player turns.
 - Win Detection: Algorithm to identify winning conditions.
-- Responsive Design: Optimized for various screen sizes and devices.
 - Game Reset: Ability to restart the game at any time.
 
 ### Technologies Used
